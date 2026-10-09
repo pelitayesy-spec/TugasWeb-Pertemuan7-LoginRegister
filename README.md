@@ -21,13 +21,13 @@ Butuh PHP 8.1 atau lebih baru.
 ### Dengan XAMPP
 1. Salin folder proyek ke `C:\xampp\htdocs\`.
 2. Start **Apache** di XAMPP Control Panel.
-3. Buka http://localhost/TugasWeb-Pertemuan7-LoginRegister/
+3. Buka [http://localhost/TugasWeb-Pertemuan7-LoginRegister/](http://localhost/TugasWeb-Pertemuan7-LoginRegister/)
 
 ### Tanpa XAMPP
 ```bash
 php -S localhost:8000
 ```
-Lalu buka http://localhost:8000
+Lalu buka [http://localhost:8000](http://localhost:8000)
 
 ## Struktur
 ```
