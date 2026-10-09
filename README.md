@@ -15,8 +15,12 @@ Sistem login/register sederhana dengan PHP Native dan penyimpanan file JSON.
 - Pesan error dan sukses yang jelas
 - Bonus: Remember Me (cookie), edit profil, tampilan CSS, proteksi CSRF
 
-## Cara Menjalankan
-Butuh PHP 8.1 atau lebih baru.
+### Dengan XAMPP
+1. Salin folder proyek ke `C:\xampp\htdocs\`.
+2. Start **Apache** di XAMPP Control Panel.
+3. Buka `http://localhost/TugasWeb-Pertemuan7-LoginRegister/`.
+
+### Butuh PHP 8.1 atau lebih baru.
 
 ```bash
 php -S localhost:8000
